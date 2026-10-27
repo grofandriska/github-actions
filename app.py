@@ -2,7 +2,7 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 
 
 def greeting():
-    return "Hello, CSK!"
+    return "Hello, CSK!
 
 
 class Handler(BaseHTTPRequestHandler):
